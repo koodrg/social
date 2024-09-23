@@ -1,0 +1,14 @@
+info:
+  contact: {}
+paths:
+  /items:
+    patch:
+      responses: {}
+    post:
+      responses: {}
+  /items/{id}:
+    delete:
+      responses: {}
+    get:
+      responses: {}
+swagger: "2.0"
